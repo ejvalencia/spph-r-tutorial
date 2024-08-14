@@ -1,6 +1,6 @@
 ---
-title: "Making shareable documents with Quarto"
-subtitle: "Create open-source tutorials, onboarding docs, and much more"
+title: "R Foundations for Population and Public Health Research"
+subtitle: "A Primer for UBC SPPH 400 and 500"
 ---
 
 ## Welcome {#welcome}
